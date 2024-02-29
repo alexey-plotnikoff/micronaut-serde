@@ -4,7 +4,7 @@ Micronaut 4.3.4 with `micronaut-serde-jackson`.
 Run application:
 
 ```
-
+./gradlew run
 ```
 
 Run and application prints
