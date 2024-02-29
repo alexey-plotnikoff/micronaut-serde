@@ -15,4 +15,4 @@ but should be:
 body: {"courier":"ups-mi"}
 ```
 
-Issue [780](https://github.com/micronaut-projects/micronaut-serialization/issues/780).
+Issue [#780](https://github.com/micronaut-projects/micronaut-serialization/issues/780).
